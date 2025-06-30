@@ -1,0 +1,2 @@
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\bin\Release\net8.0\win-x64\publish\temDadoEmCasa.pdb
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\bin\Release\net8.0\win-x64\publish\temDadoEmCasa.exe

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YPFr8gKGcDA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cliente Info Haus\\OneDrive\\Documentos\\C#\\temDadoEmCasa\\temDadoEmCasa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente Info Haus\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\Cliente Info Haus\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.8\\microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\Cliente Info Haus\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\Cliente Info Haus\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

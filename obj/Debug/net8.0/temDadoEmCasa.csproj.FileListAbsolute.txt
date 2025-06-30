@@ -1,0 +1,14 @@
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\bin\Debug\net8.0\temDadoEmCasa.exe
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\bin\Debug\net8.0\temDadoEmCasa.deps.json
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\bin\Debug\net8.0\temDadoEmCasa.runtimeconfig.json
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\bin\Debug\net8.0\temDadoEmCasa.dll
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\bin\Debug\net8.0\temDadoEmCasa.pdb
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\obj\Debug\net8.0\temDadoEmCasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\obj\Debug\net8.0\temDadoEmCasa.AssemblyInfoInputs.cache
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\obj\Debug\net8.0\temDadoEmCasa.AssemblyInfo.cs
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\obj\Debug\net8.0\temDadoEmCasa.csproj.CoreCompileInputs.cache
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\obj\Debug\net8.0\temDadoEmCasa.dll
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\obj\Debug\net8.0\refint\temDadoEmCasa.dll
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\obj\Debug\net8.0\temDadoEmCasa.pdb
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\obj\Debug\net8.0\temDadoEmCasa.genruntimeconfig.cache
+C:\Users\Cliente Info Haus\OneDrive\Documentos\C#\temDadoEmCasa\obj\Debug\net8.0\ref\temDadoEmCasa.dll
